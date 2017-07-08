@@ -1,0 +1,11 @@
+D:\Source\New Folder\C#\OA.Service\bin\Debug\netcoreapp1.1\OA.Service.deps.json
+D:\Source\New Folder\C#\OA.Service\bin\Debug\netcoreapp1.1\OA.Service.dll
+D:\Source\New Folder\C#\OA.Service\bin\Debug\netcoreapp1.1\OA.Service.pdb
+D:\Source\New Folder\C#\OA.Service\bin\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\New Folder\C#\OA.Service\bin\Debug\netcoreapp1.1\OA.Repo.dll
+D:\Source\New Folder\C#\OA.Service\bin\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\New Folder\C#\OA.Service\bin\Debug\netcoreapp1.1\OA.Repo.pdb
+D:\Source\New Folder\C#\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.csprojResolveAssemblyReference.cache
+D:\Source\New Folder\C#\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.AssemblyInfo.cs
+D:\Source\New Folder\C#\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.dll
+D:\Source\New Folder\C#\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.pdb
