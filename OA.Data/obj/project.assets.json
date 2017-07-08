@@ -8185,15 +8185,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thi.NguyenDinh\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\New Folder\\C#\\OA.Data\\OA.Data.csproj",
+      "projectUniqueName": "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj",
       "projectName": "OA.Data",
-      "projectPath": "D:\\Source\\New Folder\\C#\\OA.Data\\OA.Data.csproj",
-      "outputPath": "D:\\Source\\New Folder\\C#\\OA.Data\\obj\\",
+      "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj",
+      "outputPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

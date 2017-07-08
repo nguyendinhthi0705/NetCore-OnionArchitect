@@ -13,3 +13,18 @@ D:\Source\New Folder\C#\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.csprojResolveAssem
 D:\Source\New Folder\C#\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.AssemblyInfo.cs
 D:\Source\New Folder\C#\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.dll
 D:\Source\New Folder\C#\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.pdb
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.deps.json
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.runtimeconfig.json
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.runtimeconfig.dev.json
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.dll
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Web.pdb
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Repo.dll
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Service.dll
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Repo.pdb
+D:\Source\NetCore-OnionArchitect\OA.Web\bin\Debug\netcoreapp1.1\OA.Service.pdb
+D:\Source\NetCore-OnionArchitect\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.csprojResolveAssemblyReference.cache
+D:\Source\NetCore-OnionArchitect\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.AssemblyInfo.cs
+D:\Source\NetCore-OnionArchitect\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.dll
+D:\Source\NetCore-OnionArchitect\OA.Web\obj\Debug\netcoreapp1.1\OA.Web.pdb

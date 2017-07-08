@@ -5,3 +5,10 @@ D:\Source\New Folder\C#\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.csprojResolveAss
 D:\Source\New Folder\C#\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.AssemblyInfo.cs
 D:\Source\New Folder\C#\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.dll
 D:\Source\New Folder\C#\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\NetCore-OnionArchitect\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.deps.json
+D:\Source\NetCore-OnionArchitect\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\NetCore-OnionArchitect\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.csprojResolveAssemblyReference.cache
+D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.AssemblyInfo.cs
+D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.pdb
