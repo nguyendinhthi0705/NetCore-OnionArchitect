@@ -8196,15 +8196,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Thi.NguyenDinh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\NetCore-OnionArchitect\\OA.Repo\\OA.Repo.csproj",
+      "projectUniqueName": "D:\\Source\\Onion\\OnionArchitect\\OA.Repo\\OA.Repo.csproj",
       "projectName": "OA.Repo",
-      "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Repo\\OA.Repo.csproj",
-      "outputPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Repo\\obj\\",
+      "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Repo\\OA.Repo.csproj",
+      "outputPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Repo\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8212,8 +8212,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj": {
-              "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj"
+            "D:\\Source\\Onion\\OnionArchitect\\OA.Data\\OA.Data.csproj": {
+              "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Data\\OA.Data.csproj"
             }
           }
         }
@@ -8224,7 +8224,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
-            "version": "[1.1.1, )"
+            "version": "1.1.1"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

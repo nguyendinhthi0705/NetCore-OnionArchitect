@@ -12,3 +12,10 @@ D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.csprojR
 D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.AssemblyInfo.cs
 D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.dll
 D:\Source\NetCore-OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\Onion\OnionArchitect\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.deps.json
+D:\Source\Onion\OnionArchitect\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\Onion\OnionArchitect\OA.Data\bin\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\Onion\OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.AssemblyInfo.cs
+D:\Source\Onion\OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\Onion\OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\Onion\OnionArchitect\OA.Data\obj\Debug\netcoreapp1.1\OA.Data.csprojResolveAssemblyReference.cache

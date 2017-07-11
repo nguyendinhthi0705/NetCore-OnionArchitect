@@ -20,3 +20,14 @@ D:\Source\NetCore-OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.c
 D:\Source\NetCore-OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.AssemblyInfo.cs
 D:\Source\NetCore-OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.dll
 D:\Source\NetCore-OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.pdb
+D:\Source\Onion\OnionArchitect\OA.Service\bin\Debug\netcoreapp1.1\OA.Service.deps.json
+D:\Source\Onion\OnionArchitect\OA.Service\bin\Debug\netcoreapp1.1\OA.Service.dll
+D:\Source\Onion\OnionArchitect\OA.Service\bin\Debug\netcoreapp1.1\OA.Service.pdb
+D:\Source\Onion\OnionArchitect\OA.Service\bin\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\Onion\OnionArchitect\OA.Service\bin\Debug\netcoreapp1.1\OA.Repo.dll
+D:\Source\Onion\OnionArchitect\OA.Service\bin\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\Onion\OnionArchitect\OA.Service\bin\Debug\netcoreapp1.1\OA.Repo.pdb
+D:\Source\Onion\OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.csprojResolveAssemblyReference.cache
+D:\Source\Onion\OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.AssemblyInfo.cs
+D:\Source\Onion\OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.dll
+D:\Source\Onion\OnionArchitect\OA.Service\obj\Debug\netcoreapp1.1\OA.Service.pdb

@@ -8210,15 +8210,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Thi.NguyenDinh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\NetCore-OnionArchitect\\OA.Service\\OA.Service.csproj",
+      "projectUniqueName": "D:\\Source\\Onion\\OnionArchitect\\OA.Service\\OA.Service.csproj",
       "projectName": "OA.Service",
-      "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Service\\OA.Service.csproj",
-      "outputPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Service\\obj\\",
+      "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Service\\OA.Service.csproj",
+      "outputPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Service\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8226,11 +8226,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\Source\\NetCore-OnionArchitect\\OA.Repo\\OA.Repo.csproj": {
-              "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Repo\\OA.Repo.csproj"
+            "D:\\Source\\Onion\\OnionArchitect\\OA.Repo\\OA.Repo.csproj": {
+              "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Repo\\OA.Repo.csproj"
             },
-            "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj": {
-              "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj"
+            "D:\\Source\\Onion\\OnionArchitect\\OA.Data\\OA.Data.csproj": {
+              "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Data\\OA.Data.csproj"
             }
           }
         }

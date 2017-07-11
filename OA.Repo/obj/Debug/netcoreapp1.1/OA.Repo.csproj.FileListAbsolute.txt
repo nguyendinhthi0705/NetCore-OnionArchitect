@@ -16,3 +16,12 @@ D:\Source\NetCore-OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.csprojR
 D:\Source\NetCore-OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.AssemblyInfo.cs
 D:\Source\NetCore-OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.dll
 D:\Source\NetCore-OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.pdb
+D:\Source\Onion\OnionArchitect\OA.Repo\bin\Debug\netcoreapp1.1\OA.Repo.deps.json
+D:\Source\Onion\OnionArchitect\OA.Repo\bin\Debug\netcoreapp1.1\OA.Repo.dll
+D:\Source\Onion\OnionArchitect\OA.Repo\bin\Debug\netcoreapp1.1\OA.Repo.pdb
+D:\Source\Onion\OnionArchitect\OA.Repo\bin\Debug\netcoreapp1.1\OA.Data.dll
+D:\Source\Onion\OnionArchitect\OA.Repo\bin\Debug\netcoreapp1.1\OA.Data.pdb
+D:\Source\Onion\OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.csprojResolveAssemblyReference.cache
+D:\Source\Onion\OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.AssemblyInfo.cs
+D:\Source\Onion\OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.dll
+D:\Source\Onion\OnionArchitect\OA.Repo\obj\Debug\netcoreapp1.1\OA.Repo.pdb

@@ -10347,15 +10347,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Thi.NguyenDinh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\NetCore-OnionArchitect\\OA.Web\\OA.Web.csproj",
+      "projectUniqueName": "D:\\Source\\Onion\\OnionArchitect\\OA.Web\\OA.Web.csproj",
       "projectName": "OA.Web",
-      "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Web\\OA.Web.csproj",
-      "outputPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Web\\obj\\",
+      "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Web\\OA.Web.csproj",
+      "outputPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Web\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10363,14 +10363,14 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\Source\\NetCore-OnionArchitect\\OA.Repo\\OA.Repo.csproj": {
-              "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Repo\\OA.Repo.csproj"
+            "D:\\Source\\Onion\\OnionArchitect\\OA.Repo\\OA.Repo.csproj": {
+              "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Repo\\OA.Repo.csproj"
             },
-            "D:\\Source\\NetCore-OnionArchitect\\OA.Service\\OA.Service.csproj": {
-              "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Service\\OA.Service.csproj"
+            "D:\\Source\\Onion\\OnionArchitect\\OA.Service\\OA.Service.csproj": {
+              "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Service\\OA.Service.csproj"
             },
-            "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj": {
-              "projectPath": "D:\\Source\\NetCore-OnionArchitect\\OA.Data\\OA.Data.csproj"
+            "D:\\Source\\Onion\\OnionArchitect\\OA.Data\\OA.Data.csproj": {
+              "projectPath": "D:\\Source\\Onion\\OnionArchitect\\OA.Data\\OA.Data.csproj"
             }
           }
         }
@@ -10389,7 +10389,7 @@
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "1.1.2"
           },
           "Microsoft.Extensions.Configuration.Json": {
             "target": "Package",
@@ -10430,7 +10430,7 @@
           },
           "Microsoft.AspNetCore.Mvc": {
             "target": "Package",
-            "version": "1.1.2"
+            "version": "[1.1.2, )"
           },
           "Microsoft.Extensions.Logging": {
             "target": "Package",

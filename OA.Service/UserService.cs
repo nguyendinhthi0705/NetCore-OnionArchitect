@@ -1,9 +1,6 @@
 ﻿using OA.Data;
 using OA.Repo;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace OA.Service
 {
@@ -32,6 +29,7 @@ namespace OA.Service
         {
             userRepository.Insert(user);
         }
+
         public void UpdateUser(User user)
         {
             userRepository.Update(user);
